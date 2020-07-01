@@ -1,7 +1,6 @@
 # nuxt-app-demo
 
-> my first nuxt app demo
-
+> my first nuxt app 
 ## Build Setup
 
 ```bash
