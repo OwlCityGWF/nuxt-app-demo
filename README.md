@@ -1,6 +1,6 @@
 # nuxt-app-demo
 
-> my first nuxt app
+> my first nuxt app demo
 
 ## Build Setup
 
