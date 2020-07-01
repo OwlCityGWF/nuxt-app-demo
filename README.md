@@ -1,4 +1,4 @@
-# my-nuxt-app
+# nuxt-app-demo
 
 > my first nuxt app
 
